@@ -6,3 +6,17 @@ body {
     padding-bottom: 20px;
     color: green;
 }
+
+.featurepic {
+	max-width: 100%;
+	max-height: auto;
+}
+
+.subfeaturepic{
+	max-width: 300px;
+	max-height: auto;
+}
+
+.intro {
+	color: black;
+}
